@@ -20,11 +20,6 @@
     <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
 </p>
 
-### Stats:
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ferikunn&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-</p>
-
 ### Let's connect!
 <p>
     <a href="https://t.me/xlficks" target="blank"><img src="https://img.shields.io/badge/@xflicks-30302f?style=flat&logo=telegram" /></a>
