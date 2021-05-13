@@ -7,6 +7,7 @@
 <br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=ferikunn&color=blue&style=flat-square&label=Profile+Views)
+### Stats:
 <p align="center"><a href="https://github.com/ferikunn"><img src="https://github-readme-stats.vercel.app/api?username=ferikunn&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/ferikunn"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferikunn&theme=radical&layout=compact"></a></p> 
 
