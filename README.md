@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/aqOUrkDo2fdyE/giphy.gif">
+  <img src="https://giphy.com/gifs/kpop-k-pop-blackpink-3otPoGDHuyhxO9xYBi">
 </p>
 
 
