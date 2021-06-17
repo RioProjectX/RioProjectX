@@ -1,4 +1,4 @@
-[IMAGE](https://giphy.com/gifs/kpop-k-pop-blackpink-3otPoGDHuyhxO9xYBi)
+<div class="tenor-gif-embed" data-postid="10301697" data-share-method="host" data-width="100%" data-aspect-ratio="0.7625"><a href="https://tenor.com/view/jisoo-blackpink-stan-blink-gif-10301697">Jisoo Blackpink GIF</a> from <a href="https://tenor.com/search/jisoo-gifs">Jisoo GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 
