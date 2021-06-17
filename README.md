@@ -1,10 +1,5 @@
-<p align="center">
+[IMAGE](https://giphy.com/gifs/kpop-k-pop-blackpink-3otPoGDHuyhxO9xYBi)
 
-
-  <img src="https://giphy.com/gifs/kpop-k-pop-blackpink-3otPoGDHuyhxO9xYBi">
-
-
-</p>
 
 
 ## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/xflicks) 
