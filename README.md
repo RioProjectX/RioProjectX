@@ -19,8 +19,8 @@
 
 ### Let's connect!
 <p>
-    <a href="https://t.me/riio00" target="blank"><img src="https://img.shields.io/badge/@riio00-30302f?style=flat&logo=telegram" /></a>
-    <a href="https://t.me/riogroupsupport" target="blank"><img src="https://img.shields.io/badge/@RioProjectX-30302f?style=flat&logo=Telegram" /></a>
+    <a href="https://t.me/riio00" target="blank"><img src="https://img.shields.io/badge/Rio-30302f?style=flat&logo=telegram" /></a>
+    <a href="https://t.me/riogroupsupport" target="blank"><img src="https://img.shields.io/badge/Group Support-30302f?style=flat&logo=Telegram" /></a>
 </p>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
