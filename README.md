@@ -1,12 +1,12 @@
 
 
-## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/xflicks) 
+## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/riio00) 
 <br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=ferikunn&color=blue&style=flat-square&label=Profile+Views)
 ### Stats:
-<p align="center"><a href="https://github.com/ferikunn"><img src="https://github-readme-stats.vercel.app/api?username=ferikunn&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/ferikunn"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferikunn&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/RioProjectX"><img src="https://github-readme-stats.vercel.app/api?username=RioProjectX&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/RioProjectX"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RioProjectX&theme=radical&layout=compact"></a></p> 
 
 
 <p>
@@ -19,8 +19,8 @@
 
 ### Let's connect!
 <p>
-    <a href="https://t.me/xlficks" target="blank"><img src="https://img.shields.io/badge/@xflicks-30302f?style=flat&logo=telegram" /></a>
-    <a href="https://instagram.com/ferikunn" target="blank"><img src="https://img.shields.io/badge/@ferikunn-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://t.me/riio00" target="blank"><img src="https://img.shields.io/badge/@riio00-30302f?style=flat&logo=telegram" /></a>
+    <a href="https://t.me/riogroupsupport" target="blank"><img src="https://img.shields.io/badge/@RioProjectX-30302f?style=flat&logo=Telegram" /></a>
 </p>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
@@ -32,6 +32,6 @@
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/ferikunn?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+![Metrics](https://metrics.lecoq.io/RioProjectX?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
 </details>
