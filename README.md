@@ -1,6 +1,6 @@
 # Intro 🕵🏻
 * My Name Is Rio 👦🏻
-* My Hobby Is Playing Music ( Piano , Guitar , Drum ) 
+* My Hobby Is Playing Music Like ( Piano , Guitar , Drum ) 
 
 # About 🐕
 * Jangan Terlalu Mencari Sesuatu Tentang Seseorang , Karena Tau Yang Sebenarnya Kadang Menyakitkan
