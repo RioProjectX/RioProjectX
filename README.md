@@ -1,7 +1,7 @@
 # Intro
-Perkenalkan Nama Saya Rio
-Menerima Donasi Pap TT ( Cewe Only )
-Tidak Baik Dalam Coding Tapi Baik Dalam Mencintaimu
+* Perkenalkan Nama Saya Rio
+* Menerima Donasi Pap TT ( Cewe Only )
+* Tidak Baik Dalam Coding Tapi Baik Dalam Mencintaimu
 Buset srepet
 
 
