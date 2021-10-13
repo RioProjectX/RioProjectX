@@ -1,3 +1,9 @@
+# Intro
+Perkenalkan Nama Saya Rio
+Menerima Donasi Pap TT ( Cewe Only )
+Tidak Baik Dalam Coding Tapi Baik Dalam Mencintaimu
+Buset srepet
+
 
 
 ## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/riio00) 
