@@ -1,8 +1,10 @@
-# Intro
-* Perkenalkan Nama Saya Rio
+# Intro 🕵🏻
+* My Name Is Rio 👦🏻
+* My Hobby Adalah Playing Music ( Piano , Guitar , Drum ) 
+* Jangan Terlalu Mencari Sesuatu Tentang Seseorang , Karena Tau Yang Sebenarnya Kadang Menyakitkan
 * Menerima Donasi Pap TT ( Cewe Only )
-* Tidak Baik Dalam Coding Tapi Baik Dalam Mencintaimu
-Buset srepet
+* Tidak Baik Dalam Coding Tapi Baik Dalam Mencintaimu Eh
+Buset Srepet 😱😱
 
 
 
