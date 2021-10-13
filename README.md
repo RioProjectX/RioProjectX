@@ -1,14 +1,17 @@
 # Intro 🕵🏻
 * My Name Is Rio 👦🏻
-* My Hobby Adalah Playing Music ( Piano , Guitar , Drum ) 
+* My Hobby Is Playing Music ( Piano , Guitar , Drum ) 
+
+# About 🐕
 * Jangan Terlalu Mencari Sesuatu Tentang Seseorang , Karena Tau Yang Sebenarnya Kadang Menyakitkan
 * Menerima Donasi Pap TT ( Cewe Only )
 * Tidak Baik Dalam Coding Tapi Baik Dalam Mencintaimu Eh
 Buset Srepet 😱😱
+* Disaat Bot Ku Fork, Disitulah Skill Copas Ku Muncul Hahhaha Ajg.
+* Muka Lu Kaya Puky
 
 
-
-## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/riio00) 
+## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/fckualot) 
 <br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=RioProjectX&color=blue&style=flat-square&label=Profile+Views)
