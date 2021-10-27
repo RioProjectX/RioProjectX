@@ -30,7 +30,7 @@ Buset Srepet 😱😱
 
 ### Let's connect!
 <p>
-    <a href="https://t.me/riio00" target="blank"><img src="https://img.shields.io/badge/Rio-30302f?style=flat&logo=telegram" /></a>
+    <a href="https://t.me/fckualot" target="blank"><img src="https://img.shields.io/badge/Rio-30302f?style=flat&logo=telegram" /></a>
     <a href="https://t.me/riogroupsupport" target="blank"><img src="https://img.shields.io/badge/Group Support-30302f?style=flat&logo=Telegram" /></a>
 </p>
 <details>
