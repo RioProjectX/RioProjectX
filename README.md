@@ -4,11 +4,9 @@
 
 # About 🐕
 * Jangan Terlalu Mencari Sesuatu Tentang Seseorang , Karena Tau Yang Sebenarnya Kadang Menyakitkan
-* Menerima Donasi Pap TT ( Cewe Only )
-* Tidak Baik Dalam Coding Tapi Baik Dalam Mencintaimu Eh
-Buset Srepet 😱😱
-* Disaat Bot Ku Fork, Disitulah Skill Copas Ku Muncul Hahhaha Ajg.
-* Muka Lu Kaya Puky
+* I like make a little project, you can follow me at instagram @san.rio31 
+* Wanna be my friends? or make team for new project? you can contact me at instagram or telgeram @fckualot ( Me As Rio )
+* Thanks For Visting My Github Account :)
 
 
 ## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/fckualot) 
