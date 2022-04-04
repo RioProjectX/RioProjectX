@@ -11,7 +11,7 @@
 
 ## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/fckualot) 
 <br>
-## 📨 Contact me on [![Instagram](https://instagram.com/san.rio31) 
+## 📨 Contact me on [Instagram](https://instagram.com/san.rio31) 
 <br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=RioProjectX&color=blue&style=flat-square&label=Profile+Views)
