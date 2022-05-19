@@ -4,6 +4,7 @@
 
 # HUMZ
 - Hi~!
+- ![Profile views](https://komarev.com/ghpvc/?username=RioProjectX&color=blue&style=flat-square&label=Profile+Views)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,7 +26,7 @@
 * Thanks For Visting My Github Account :)
 
 
-## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/fckualot) 
+## 📨 Join Sharing Group [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/riogroupsupport) 
 <br>
 
 
