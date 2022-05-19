@@ -1,9 +1,9 @@
-# Intro 🕵🏻
+# Intro ^^
 * My Name Is Rio 👦🏻
 * My Hobby Is Playing Music Like ( Piano , Guitar , Drum ) 
 
 # HUMZ
-- Hi~!
+- Thanks For Comming Here
 - ![Profile views](https://komarev.com/ghpvc/?username=RioProjectX&color=blue&style=flat-square&label=Profile+Views)
 
 <h3 align="left">Connect with me:</h3>
