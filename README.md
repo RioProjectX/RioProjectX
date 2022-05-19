@@ -22,7 +22,7 @@
 # About 🐕
 * Jangan Terlalu Mencari Sesuatu Tentang Seseorang , Karena Tau Yang Sebenarnya Kadang Menyakitkan
 * I like make a little project, you can follow me at instagram @san.rio31 
-* Wanna be my friends? or make team for new project? you can contact me at instagram or telgeram @fckualot ( Me As Rio )
+* Im not good at here, Im Just Noob Programer
 * Thanks For Visting My Github Account :)
 
 
