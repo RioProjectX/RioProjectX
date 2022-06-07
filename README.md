@@ -22,7 +22,7 @@
 # About 🐕
 * Jangan Terlalu Mencari Sesuatu Tentang Seseorang , Karena Tau Yang Sebenarnya Kadang Menyakitkan
 * I like make a little project, you can follow me at instagram @san.rio31 
-* Im not good at here, Im Just Noob Programer
+* Im not good at coding, Im Just Noob Programmer
 * Thanks For Visting My Github Account :)
 
 
